@@ -15,7 +15,7 @@ El script utilizado para realizar esta tarea se encuentra en este mismo reposito
 - **data/**: Carpeta que contiene el dataset de imágenes de campeones.
 
 - **Test_images/**: Carpeta que contiene algunas imagenes con las que probar los modelos.
-- **Documanto pdf**: Doc donde se documenta el trabajo realizado 
+- **Documento pdf**: Doc donde se explica el trabajo realizado 
 - **nex_file.py**: Script de Python utilizado para dividir los videos en frames y organizar el dataset.
 
 - **5_champ_classifier.ipynb**: Jupyter Notebook con el código para el entrenamiento del modelo.
