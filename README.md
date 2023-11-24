@@ -18,4 +18,5 @@ El script utilizado para realizar esta tarea se encuentra en este mismo reposito
 - **Documento pdf**: Doc donde se explica el trabajo realizado 
 - **nex_file.py**: Script de Python utilizado para dividir los videos en frames y organizar el dataset.
 
-- **5_champ_classifier.ipynb**: Jupyter Notebook con el código para el entrenamiento del modelo.
+- **5_champ_classifier.ipynb**: Jupyter Notebook con el código para el entrenamiento del modelo en la primer iteración.
+- **4_LoL_Champ_Cl.ipynb**: Jupyter Notebook con el código para el entrenamiento del modelo en la segunda iteración y la final.
